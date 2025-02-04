@@ -1,0 +1,26 @@
+.title {
+    color: purple;
+    text-align: center;
+    margin: 20px;
+    font-size: 20px;
+}
+
+.red-square {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
+
+.blue-square {
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    margin: 5px;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
